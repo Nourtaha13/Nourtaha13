@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ## I'm Nour Eldin, web developer.
+
+<p> I build successful responsive websites that are easy to use and designed with best practices. My main area of ​​expertise is front end development, HTML, CSS and JS as well as using ReactJS framework, backend using nodeJs and express, using databases like MongoDB and mysql, building small and medium web applications, custom plugins, features, animations, and interactive layouts for coding.
+ </p>
+<hr/>
+
 &nbsp;
 ### _My skills :_ 
 > ### Front-end
@@ -17,9 +22,7 @@
  - MongoDB
  - Mysql
 <br>
-<p> I build successful responsive websites that are easy to use and designed with best practices. My main area of ​​expertise is front end development, HTML, CSS and JS as well as using ReactJS framework, backend using nodeJs and express, using databases like MongoDB and mysql, building small and medium web applications, custom plugins, features, animations, and interactive layouts for coding.
- </p>
-<hr/>
+
  
 > ### Github info :
 
