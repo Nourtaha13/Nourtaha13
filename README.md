@@ -2,7 +2,7 @@
 
 ## I'm Nour Eldin, web developer.
 
-> $$\textcolor{yellow}{\text{Front-end}}$$
+> $$\textcolor{yellow}{\bold{Front-end}}$$
 
  - HTML/5
  - CSS/3
