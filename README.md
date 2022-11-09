@@ -3,10 +3,10 @@
 ## I'm Nour Eldin, web developer.
 
 > Front-end
- - [x]   HTML/5
-    CSS/3
-    Javascript
-    ReactJS
+ - HTML/5
+ - CSS/3
+ - Javascript
+ - ReactJS
   
 > Back-end 
     NodeJs
