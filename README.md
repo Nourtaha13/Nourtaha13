@@ -9,7 +9,7 @@
  - Javascript
  - ReactJS
   
-$\color[rgb]{1,0,1} > Back-end 
+## > Back-end 
  - NodeJs
  - Express
 > Database
