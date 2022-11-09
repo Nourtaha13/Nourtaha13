@@ -2,8 +2,9 @@
 
 ## I'm Nour Eldin, web developer.
 
-### _My skills :_
-<br >
+### _<pre> My skills :
+</pre>_
+
 > ### Front-end
 
  - HTML/5
