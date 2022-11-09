@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ## I'm Nour Eldin, web developer.
-`#0969DA`
-> Front-end
+```diff
+-> Front-end
+```
  - HTML/5
  - CSS/3
  - Javascript
