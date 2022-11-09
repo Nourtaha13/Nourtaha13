@@ -26,6 +26,7 @@
 > ### Github info :
 
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourtaha13&theme=compact)
+<br>
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourtaha13&show_icons=true&theme=locale)
 
 
