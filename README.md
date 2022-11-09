@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Nour Eldin, web developer.
-`#RRGGBB`
+`#0969DA`
 > Front-end
  - HTML/5
  - CSS/3
