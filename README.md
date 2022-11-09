@@ -24,9 +24,10 @@
 
  
 > ### Github info :
-<!-- <p align="center"> -->
-!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourtaha13&theme=compact">
+<p align="center">
+!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourtaha13&theme=compact" />
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourtaha13&show_icons=true&theme=locale)
-<!-- </p> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nourtaha13&show_icons=true&theme=locale" />
+
+</p>
 
