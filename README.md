@@ -9,11 +9,11 @@
  - ReactJS
   
 > Back-end 
-    NodeJs
-    Express
+ - NodeJs
+ - Express
 > Database
-    MongoDB
-    Mysql
+ - MongoDB
+ - Mysql
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourtaha13&theme=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourtaha13&show_icons=true&theme=locale)
