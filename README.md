@@ -2,14 +2,14 @@
 
 ## I'm Nour Eldin, web developer.
 ```diff
->- Front-end
+> Front-end
 ```
  - HTML/5
  - CSS/3
  - Javascript
  - ReactJS
   
-> Back-end 
+$\color[rgb]{1,0,1} > Back-end 
  - NodeJs
  - Express
 > Database
