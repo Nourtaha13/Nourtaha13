@@ -20,7 +20,7 @@
 
 #### I build successful responsive websites that are easy to use and designed with best practices. My main area of ​​expertise is front end development, HTML, CSS and JS as well as using ReactJS framework, backend using nodeJs and express, using databases like MongoDB and mysql, building small and medium web applications, custom plugins, features, animations, and interactive layouts for coding.
  
-> ##git hub
+> ## Github info :
  
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourtaha13&theme=compact)
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourtaha13&show_icons=true&theme=locale)
