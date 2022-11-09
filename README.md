@@ -6,7 +6,6 @@
  </p>
 <hr/>
 
-&nbsp;
 ### _My skills :_ 
 > ### Front-end
 
