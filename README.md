@@ -2,16 +2,16 @@
 
 ## I'm Nour Eldin, web developer.
 
-** Front-end
+** Front-end**
     HTML/5
     CSS/3
     Javascript
     ReactJS
   
-** Back-end
+** Back-end**
     NodeJs
     Express
-** Database
+** Database**
     MongoDB
     Mysql
 
