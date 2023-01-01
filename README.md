@@ -13,7 +13,8 @@
  - CSS/3
  - Javascript
  - ReactJS
-  
+ - TypeScript
+ - 
  > ### Back-end 
  - NodeJs
  - Express
