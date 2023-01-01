@@ -14,7 +14,7 @@
  - Javascript
  - ReactJS
  - TypeScript
- - 
+ 
  > ### Back-end 
  - NodeJs
  - Express
